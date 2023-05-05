@@ -1,0 +1,237 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Natha/OneDrive/Documents/dldspring2023-main/dldspring2023-main/Project/SV
+T_opt
+!s110 1683315966
+V82:fLd3Oo;SR<kNhh:k?U1
+04 8 4 work stimulus fast 0
+=1-e070eaaf8117-64555cfe-1-1834
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7f;67
+vdatapath
+Z2 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z3 !s110 1683315965
+!i10b 1
+!s100 6MNg`U=Xa:Yg5>0>9Jj`:3
+I1XdVSVRcA?R=[KQ3KggBX0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 !s105 datapath_sv_unit
+S1
+R0
+Z6 w1682544578
+Z7 8datapath.sv
+Z8 Fdatapath.sv
+L0 7
+Z9 OL;L;10.7f;67
+r1
+!s85 0
+31
+Z10 !s108 1683315965.000000
+Z11 !s107 FSM.sv|datapath.sv|GOL_tb.sv|GOL.sv|
+Z12 !s90 GOL.sv|GOL_tb.sv|datapath.sv|FSM.sv|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vevolve3
+R2
+R3
+!i10b 1
+!s100 M8H>MU=QlkcTIRlz_:kVn3
+IK[Q34>L2P3]6SBQ]<5J=h0
+R4
+R5
+S1
+R0
+R6
+R7
+R8
+L0 88
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+vevolve5
+R2
+R3
+!i10b 1
+!s100 ljkWX2k_NI>?[JZVoIki10
+I6YeJ>J=6[Q`@DaP=@C<?V1
+R4
+R5
+S1
+R0
+R6
+R7
+R8
+L0 103
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+vevolve8
+R2
+R3
+!i10b 1
+!s100 9Z2ck1[Z]?E^IGXYQZDY92
+I4LmU[TQ_J7`HWbX0X1hcN2
+R4
+R5
+S1
+R0
+R6
+R7
+R8
+L0 122
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+vFSM
+R2
+R3
+!i10b 1
+!s100 ooHCKahEndS?OHcU>2Nc20
+I:KCF78eWehB8=dW=M4=gQ0
+R4
+Z14 !s105 FSM_sv_unit
+S1
+R0
+Z15 w1683314597
+Z16 8FSM.sv
+Z17 FFSM.sv
+L0 1
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+n@f@s@m
+vGOL
+R2
+R3
+!i10b 1
+!s100 5gaZNU2PIb@fR7VEA70a11
+IShRg0W[OMNe4UoPcZLbO20
+R4
+!s105 GOL_sv_unit
+S1
+R0
+w1683314955
+8GOL.sv
+FGOL.sv
+L0 1
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+n@g@o@l
+vmux
+R2
+R3
+!i10b 1
+!s100 94`Vgj5R[0PgoHG2aVmn?3
+IiVkW>9j==1[2kjJ;hIjN23
+R4
+R14
+S1
+R0
+R15
+R16
+R17
+L0 46
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+vrules
+R2
+R3
+!i10b 1
+!s100 UQRQ5K7nfo61[Ym_X<4MK2
+IP2WWKHe_AAZm]^jW9FQ1z2
+R4
+R5
+S1
+R0
+R6
+R7
+R8
+L0 147
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+vstimulus
+R2
+R3
+!i10b 1
+!s100 0:2;L[lko`g1JTWGCi2VG0
+IhOeBjGnXBdcTCeB8R]zQ_1
+R4
+!s105 GOL_tb_sv_unit
+S1
+R0
+w1683315960
+8GOL_tb.sv
+FGOL_tb.sv
+L0 1
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
